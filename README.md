@@ -1,4 +1,4 @@
-<h1>This Project Made from Native PHP(7.4.29) + MySql + HTML + CSS + JS</h1>
+<h3>This Project Made from Native PHP(7.4.29) + MySql + HTML + CSS + JS</h3>
 
 <b>Some Example of this Project's Functionalities</b>
 
